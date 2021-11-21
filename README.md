@@ -14,7 +14,7 @@ powers is not yet on CRAN. But, you can download it from this repository
 using the following R command:
 
 ``` r
-devtools::install_github("DehuiGeng/Powers")
+devtools::install_github("DehuiGeng/Assignment_B_2")
 ```
 
 ## Example
